@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chenyu Zhu"
+#  name             : "Chenyu Zhu"
   avatar           : "profile.png"
 #  bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
