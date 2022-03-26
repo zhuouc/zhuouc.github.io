@@ -14,5 +14,5 @@ large-scale ocean circulation and (Paleo-)Climate simulation.
 
 News
 ------
-
+A new paper on deglacial AMOC published on Jornal of Climate
 
