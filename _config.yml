@@ -85,9 +85,9 @@ author:
 #  name             : "Chenyu Zhu"
   avatar           : "profile.png"
 #  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Qingdao,CHINA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_1F4U18AAAAJ&hl=en"
   email            :
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -105,7 +105,7 @@ author:
  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9330-4294"
   pinterest        :
   soundcloud       :
 #  stackoverflow    : # http://stackoverflow.com/users/123456/username
