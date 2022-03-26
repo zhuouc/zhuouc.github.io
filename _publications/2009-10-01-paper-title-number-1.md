@@ -1,4 +1,6 @@
 ---
+1.	Zhu, C.*, Liu, Z.*, Zhang, S., Wu, L. (2021). Global oceanic overturning circulation forced by the competition between greenhouse gases and continental ice sheets during the last deglaciation. J. Clim., 34(18):7555-7570.
+
 title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
