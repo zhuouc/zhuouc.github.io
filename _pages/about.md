@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Rearch interest
+Research interest
 ------
 * Large-scale ocean circulation
 * (Paleo-)climate simulation
