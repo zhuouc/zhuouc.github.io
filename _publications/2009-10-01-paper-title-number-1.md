@@ -17,3 +17,4 @@
 
 2014:
 11.	Zhu, C., Huang, F., Shi, Y., Dang, Z., Zhang, Y. (2014). Spatial-Temporal Patterns of the Cold Surge Events in China in Recent 50 Years and Its Relationship with Arctic Sea Ice. J. Ocean Univ. China, 44(12):12-20 (in Chinese)
+
