@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Chenyu Zhu"
   avatar           : "profile.png"
-  #  bio              : "Your biography for the left-hand sidebar"
+#  bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zhuouc"
   google_plus      :
   keybase          :
   instagram        :
