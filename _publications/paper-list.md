@@ -1,7 +1,7 @@
 ---
 title: "Peer-reviewed Paper List"
 collection: publications
-permalink: /publication/paper-list
+permalink: /publications/paper-list
 ---
 1.	Zhu, C., Liu, Z., Zhang, S., Wu, L. (2021). Global oceanic overturning circulation forced by the competition between greenhouse gases and continental ice sheets during the last deglaciation. J. Clim., 34(18):7555-7570. 
 2.	Wen, Q.*, Zhu, C., Han, Z., Liu, Z., & Yang, H.* (2021). Can the topography of Tibetan Plateau affect the Antarctic bottom water? Geophysical Research Letters, 48, e2021GL092448. 
