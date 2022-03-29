@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr Zhu's website"
+title: "Welcome to Dr Zhu's website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
