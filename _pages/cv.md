@@ -17,21 +17,14 @@ Education
 * Visiting Scholar in The Ohio State Univerisy, 2018.1-2019.8
 
 Work experience
-======
+------
 * 2020-2022: Postdoc
   * Ocean University of China
 
 * Fall 2015: Teaching Assistant
   * Peking University
-
-Publications
-======
-#<ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
- see Publications
   
 Service and leadership
-======
+------
 * Reviewer for Geophysical Research Letters   
 
