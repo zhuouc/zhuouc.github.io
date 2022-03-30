@@ -16,7 +16,7 @@ This study is also widely mentioned in news and blogs, such as [New York Times](
 
 Deglacial AMOC evolution
 ------
-* Participated in the world’s first climate-isotope transient simulation experiment[(iTRACE)](https://www.earthsystemgrid.org/dataset/ucar.cgd.ccsm4.iTRACE.html)since the last glacial maximum (LGM), especially contributing to the simulations forced by earth orbital configuration and continental ice sheets. 
+* Participated in the world’s first climate-isotope transient simulation experiment [(iTRACE)](https://www.earthsystemgrid.org/dataset/ucar.cgd.ccsm4.iTRACE.html) since the last glacial maximum (LGM), especially contributing to the simulations forced by earth orbital configuration and continental ice sheets. 
 * Detected the competition effect between greenhouse gases and continental ice sheets on glacial AMOC, providing a possible mechanism for the uncertainty of glacial AMOC intensity in both reconstructions and model simulations.
 
 AAIW and AMOC stability
