@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-------
 Education
 ------
 * B.S. in Ocean University of China, 2010.9-2014.6
