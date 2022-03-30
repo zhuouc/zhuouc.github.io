@@ -30,10 +30,14 @@ Service and leadership
 
 Presentations
 ------
-* 2022.02   Ocean Sciences Meeting 2022     Poster presentation on deglacial AMOC evolution
-* 2020.05   EGU General Assembly 2020       Online presentation on AMOC fingerprint
-* 2018.12   AGU Fall Meeting 2018           Poster presentation on AAIW bias
-* 2018.06   NCAR CESM workshop 2018         Communication on iTraCE simulation
+* 2022.02   Ocean Sciences Meeting 2022     
+  * Poster presentation on deglacial AMOC evolution
+* 2020.05   EGU General Assembly 2020       
+  * Online presentation on AMOC fingerprint
+* 2018.12   AGU Fall Meeting 2018           
+  * Poster presentation on AAIW bias
+* 2018.06   NCAR CESM workshop 2018         
+  * Communication on iTraCE simulation
 
 
 
