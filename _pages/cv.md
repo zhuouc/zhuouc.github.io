@@ -39,5 +39,14 @@ Presentations
 * 2018.06   NCAR CESM workshop 2018         
   * Communication on iTraCE simulation
 
+Funding
+------
+1.	Natural Science Foundation of China (NSFC): On a new proxy indicator for Atlantic meridioinal overturning circulation (AMOC) under global warming. (NSFC Grant 42106013, from 2022 to 2024)
+2.	China Scholarship Council (SCS)：China Scholarship Fund for studying abroad. (CSC Grant 201706010033, from 2017 to 2019)
 
+Honors and Awards
+------
+* 2017                        Outstanding Student                   Peking University
+* 2012, 2017                  China National Scholarship               MOE of China
+* 2011, 2013              National Encouragement Scholarship           MOE of China
 
