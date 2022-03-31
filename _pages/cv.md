@@ -42,7 +42,7 @@ Presentations
 Funding
 ------
 1.	Natural Science Foundation of China (NSFC): On a new proxy indicator for Atlantic meridioinal overturning circulation (AMOC) under global warming. (NSFC Grant 42106013, from 2022 to 2024)
-2.	China Scholarship Council (SCS)：China Scholarship Fund for studying abroad. (CSC Grant 201706010033, from 2017 to 2019)
+2.	China Scholarship Council (CSC)：China Scholarship Fund for studying abroad. (CSC Grant 201706010033, from 2017 to 2019)
 
 Honors and Awards
 ------
