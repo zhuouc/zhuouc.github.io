@@ -46,7 +46,7 @@ Funding
 
 Honors and Awards
 ------
-* 2017                        Outstanding Student                   Peking University
-* 2012, 2017                  China National Scholarship               MOE of China
-* 2011, 2013              National Encouragement Scholarship           MOE of China
+* 2017                        Outstanding Student,                   Peking University
+* 2012, 2017                  National Scholarship,               MOE of China
+* 2011, 2013              National Encouragement Scholarship,           MOE of China
 
