@@ -21,7 +21,7 @@ Work experience
 * 2020-2022: Postdoc
   * Ocean University of China
 
-* Fall 2015: Teaching Assistant
+* Fall 2015: Methods of Mathematical Physics, Teaching Assistant
   * Peking University
   
 Service and leadership
